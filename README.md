@@ -1,5 +1,5 @@
 # ui-flow
-Define onboarding flows as DAGs
+Define onboarding flows as chained method calls
 
 ```javascript
 import coachmark from '@onboardist/coachmark';
