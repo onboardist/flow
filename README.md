@@ -1,8 +1,8 @@
-# flow
+# ui-flow
 Define onboarding flows as DAGs
 
 ```javascript
-import flow from 'flow';
+import flow from '@onboardist/ui-flow';
 
 // Maybe this?
 
