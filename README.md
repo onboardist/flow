@@ -19,3 +19,7 @@ flow() // Start a new flow
 
 
 ```
+
+# Notes
+
+* [ ] Needs to be usable within a component that has internal flows (callouts, coachmarks) as well as over multiple components working together. As long as it's generic and lightweight enough, that should be fine.
